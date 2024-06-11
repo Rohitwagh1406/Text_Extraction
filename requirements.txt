@@ -5,6 +5,7 @@ colorama==0.4.6
 dnspython==2.6.1
 email_validator==2.1.1
 Flask==2.1.1
+google-generativeai
 h11==0.14.0
 httpcore==1.0.5
 httptools==0.6.1
@@ -13,7 +14,6 @@ idna==3.7
 Jinja2==3.1.4
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-PyMuPDF==1.19.6
 requests==2.27.1
 mdurl==0.1.2
 orjson==3.10.4
